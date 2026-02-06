@@ -1,4 +1,4 @@
-This is Christmas day and i will not be coding
+TThis is Christmas day and i will not be coding
 This is Christmas day +1 and i still not coding
 This is Christmas day +2.  We are going home from John's today. Still not coding.
 Today is New Year's Eve.  I need another day w/o coding.
@@ -20,3 +20,4 @@ Today is Sunday February 1, 2026.  This is the Lord's day. No work.
 Today is Tuesday February 3, 2026.  Spent day chasing down car issues.  No Study.
 Today is Wednesday February 4, 2026. Spent day in kitchen. No study.
 Today is Thursday February 5, 2026. Spent day viewing David Malans lecture on Python and SQL. 
+Today is Friday Frbruary 6,2026. Spent day chasing down auto problems.  Did work on boot.dev but did not complete a lesson.
