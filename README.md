@@ -1,4 +1,4 @@
-TThis is Christmas day and i will not be coding
+TTThis is Christmas day and i will not be coding
 This is Christmas day +1 and i still not coding
 This is Christmas day +2.  We are going home from John's today. Still not coding.
 Today is New Year's Eve.  I need another day w/o coding.
@@ -25,3 +25,4 @@ Today is Saturday February 7,2026.  Spent day at Food Lion and woring on boot.de
 Today is Sunday February 8,2026.  Spent sabbath day at home. No work today.
 Today is Monday February 9, 2026. Spent most of the day getting estimate to fix Jeep Grand Cherokee and chasing down credit card issues.
 Today is Wednesday February 11, 2026.  Started on my first personal project.  Still engaged in choosing project. 
+Today is Thursday February 12,2026.  Still trying to choose a personal project.
