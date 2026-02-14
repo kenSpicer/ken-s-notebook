@@ -26,3 +26,4 @@ Today is Sunday February 8,2026.  Spent sabbath day at home. No work today.
 Today is Monday February 9, 2026. Spent most of the day getting estimate to fix Jeep Grand Cherokee and chasing down credit card issues.
 Today is Wednesday February 11, 2026.  Started on my first personal project.  Still engaged in choosing project. 
 Today is Thursday February 12,2026.  Still trying to choose a personal project.
+Today is Friday February 13,2026. Planning for a personal project for boot.dev 
