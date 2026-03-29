@@ -52,3 +52,4 @@ Today is Monday, March 23, 2026. Spent day dealing with unauthorized transaction
 Today is Tuesday, March 24, 2026.  Today is my birthday.  Spent day at doctor's appoints and celebrating with my wife.  No lessons completed.
 Today is Wednesday, March 25, 2026. Spent day taking care of domestic things.  Did work a little on personal project. No lessons completed.
 Today is Thursday, March 26, 2026.  Spent day with Al Miller cleaning up stump from plum tree and working in garden. Planted peas,beets,lettuce and radish.  No lessons completed.
+Today is Saturdaym March 28, 2026. Day of birthday celebrations, mine and April's.  No lessons completed.
