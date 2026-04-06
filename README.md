@@ -58,3 +58,4 @@ Today is Monday, March 30, 2026. Spent time on my first personal project and als
 Today is Tuesday, March 31, 2026. Spent day working in yard, getting tools repaired and getting medicine before fixing dinner.  No lessons completed.
 Today is Friday, April 3, 2026. Today is my 61st wedding anniversary.  No study. No lessons completed.
 Today is Saturday, April 4,2026.  Resurrection Sunday tommorow.  No study today. No lessons completed.
+Today is Sunday, April 5, 2026.  Resurrection Sunday.  Spent day with Mark, Anna & Ruby.  No lessons completed.
