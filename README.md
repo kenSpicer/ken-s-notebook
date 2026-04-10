@@ -61,3 +61,4 @@ Today is Saturday, April 4,2026.  Resurrection Sunday tommorow.  No study today.
 Today is Sunday, April 5, 2026.  Resurrection Sunday.  Spent day with Mark, Anna & Ruby.  No lessons completed.
 Today is Monday, April 6, 2026.  Easter Monday. Spent day with daily domestic duties. Took Bobbi to see Dr. Burke.  No lessons completed.
 Today is Wednesday, April 8, 2026.  Spent day doing family things. No lessons completed.
+Today is Thursday, April 9, 2026.  Spent day at funeral for Chuck BenSavage.  No lessons completed.
