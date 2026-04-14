@@ -64,3 +64,4 @@ Today is Wednesday, April 8, 2026.  Spent day doing family things. No lessons co
 Today is Thursday, April 9, 2026.  Spent day at funeral for Chuck BenSavage.  No lessons completed.
 Today is Saturday, April 11, 2026.  Spent day doing yard work, planting beets, turnips.
 Today is Sunday, April 12, 2026.  This is the Lord's day. No work, no lessons completed.
+Today is Monday, April 13, 2027. No work today. No lessons completed.
