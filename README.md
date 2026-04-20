@@ -70,3 +70,4 @@ Today is Wednesday, April 15, 2026.  Tax day. No lessons completed.
 Today is Friday, April 17, 2026. No lessons completed.
 Today is Saturday, April 18, 2026. Doing home maintenance chores.  No lessons completed.
 today is Sunday, April 19, 2026.  This is the Lord's day. No lessons completed.
+Today is Monday, April 20, 2026.  No lessons completed.
