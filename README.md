@@ -75,3 +75,4 @@ Today is Tuesday, April 21, 2026. Spent day caring for my wife. No lessons compl
 Today is Wednesday, April 22, 2026. Spent day caring for my wife. Dr. E at 1:15. No lessons completed.
 Today is Thursday, April 23, 2026. Lunch with Mike & Andy.  Andy started installation of Kubuntu26.04. no lessons completed.
 Today is Friday, April 24, 2026.  Work around house while waiting to update O.S. to Kubuntu26.04. No lessons completed.
+Today is Saturday, April 25, 2026. Waiting to update to Kubuntu 26.04. No lessons completed.
