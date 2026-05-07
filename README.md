@@ -80,3 +80,4 @@ Today is Sunday, April 26, 2026.  Tomorrow is update day.  Today, no lessons com
 Monday, April 28, 2026.  Unable to update system today. Must wait until next week. No lessons completed.
 Today is Tuesday, April 29, 2026.  Spent day learning to use latest version of Kate.  No lessons completed.
 Today is Wednesday, May 6,2026. Spent day correcting issues with my new os.  No lessons completed.
+Today is Thursday, May 7,2026.  Spent day working on personal FreeSimpleGUI for tracking expendatures and going to Dr.Pedro for 6month follow up. No lessons completed.
